@@ -1,0 +1,8 @@
+a = int(input("Enter a number"))
+b = int(input("Enter a number"))
+c = a
+a = b
+b = c
+print("after swapping number")
+print("a =",a)
+print("b =",b)

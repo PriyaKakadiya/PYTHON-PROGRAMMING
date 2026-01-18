@@ -1,0 +1,7 @@
+a = int(input("Enter bytes"))
+kb = a/1024
+mb = kb/1024
+gb = mb/1024
+print("KB =",kb)
+print("MB =",mb)
+print("GB =",gb)
